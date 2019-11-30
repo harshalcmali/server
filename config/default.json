@@ -1,0 +1,8 @@
+{
+    "host":"localhost",
+    "database":"Emp",
+    "user":"root",
+    "password":"manager",
+    "port":"9898"
+
+}
